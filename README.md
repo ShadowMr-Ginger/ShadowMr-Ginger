@@ -40,6 +40,8 @@ I'm interested in **C++, algorithms, systems programming, and software developme
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowMr-Ginger&layout=compact&hide_border=true" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowMr-Ginger)
+
 ---
 
 ## 🚀 About Me
