@@ -22,7 +22,10 @@ I enjoy building things from the ground up, solving algorithmic problems, and ex
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-ginger19.vercel.app/api?username=ShadowMr-Ginger&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-ginger19.vercel.app/api/top-langs/?username=ShadowMr-Ginger&layout=compact&langs_count=8&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats-ginger19.vercel.app/api/top-langs/?username=ShadowMr-Ginger&layout=compact&langs_count=8&hide=javascript,typescript&hide_border=true"
+  />
 </p>
 
 ---
