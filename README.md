@@ -28,8 +28,8 @@ I'm interested in **C++, algorithms, systems programming, and software developme
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShadowMr-Ginger&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMr-Ginger&layout=compact&langs_count=8&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-ginger19.vercel.app/api?username=ShadowMr-Ginger&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-ginger19.vercel.app/api/top-langs/?username=ShadowMr-Ginger&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
 ---
@@ -37,10 +37,8 @@ I'm interested in **C++, algorithms, systems programming, and software developme
 ## ⏱️ WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShadowMr-Ginger&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-ginger19.vercel.app/api/wakatime?username=ShadowMr-Ginger&layout=compact&hide_border=true" />
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadowMr-Ginger)
 
 ---
 
